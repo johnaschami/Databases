@@ -1,1 +1,1 @@
-# This repo will have relational databases projects. 
+# This repo will have relational and non-relational databases projects. 
